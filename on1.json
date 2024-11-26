@@ -1,8 +1,4 @@
 {
-  "emulatorProcessName": "HD-Player",
-  "searchPattern": "3C 51 88 E5 00 70 94 E5 CC 50 96 E5 00 00 57",
-  "memoryWriteValue": "40",
-  "errorMessage": "THIS COD NOT SAFE.",
-  "removedMessage": "REMOVED OLD EMULATOR",
-  "timeFormat": "TIME: {0:F2} Seconds"
+    "pattern": "3C 51 88 E5 00 70 94 E5 CC 50 96 E5 00 00 57"
 }
+
