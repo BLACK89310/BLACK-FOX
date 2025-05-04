@@ -6,6 +6,6 @@
   ],
   "revert": [
     { "offset": 0, "byte": "28" },
-    { "offset": 4, "byte": "01" }
+    { "offset": 1, "byte": "01" }
   ]
 }
